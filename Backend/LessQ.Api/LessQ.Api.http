@@ -1,0 +1,6 @@
+@LessQ.Api_HostAddress = http://localhost:5078
+
+GET {{LessQ.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
